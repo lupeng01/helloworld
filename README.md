@@ -1,2 +1,2 @@
 # helloworld
-first project for git and github
+Hi,I am novice.This is my first project for git and github
